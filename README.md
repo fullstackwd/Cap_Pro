@@ -19,3 +19,7 @@ Editor: **Sublime text.**
 Terminal: **Terminal cmd (MS-DOS).**
 
 Editor de texto: **MS-Word.**
+
+### Solicitacao do desafio de programação 2
+
+Obs: Se você já realizou o primeiro desafio, não é necessário a resolução desse segundo desafio. Iremos levar em consideração a resolução do primeiro desafio.
